@@ -11,4 +11,5 @@ body{
 .cont{
   width: 100%;
   background-color: #ecf2ff;
+  border-radius: 20px;
 }
